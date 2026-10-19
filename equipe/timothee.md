@@ -1,0 +1,2 @@
+- Pseudo GitHub : @Sweemyt
+- Ce que je connais déjà de Git : Git est un outil de gestion des version.
