@@ -1,2 +1,3 @@
 - Pseudo GitHub : @Sweemyt
 - Ce que je connais déjà de Git : Git est un outil de gestion des version.
+- Ce que j'attends de cet atelier : Approfondir mes compétences et ma matrise de git et github.
