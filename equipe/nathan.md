@@ -14,3 +14,7 @@ Il se trouve sur github, là où tous les collaborateurs ont accès et peuvent r
 
 3. Que se passe-t-il si je supprime mon Codespace après un commit mais sans push ?
 Le commit n'est pas push dont perdu et peut-être avec toutes les modifications effectuées.
+
+## Stash
+La commande git stash permet de mettre temporairement de côté les modifications en cours.
+Elle permet de retrouver un espace de travail propre sans créer de commit.
